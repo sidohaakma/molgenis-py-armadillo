@@ -1,1 +1,1 @@
-# molgenis-py-armadillo
+# Armadillo Python Client
